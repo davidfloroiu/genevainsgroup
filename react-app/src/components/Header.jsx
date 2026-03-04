@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import './Header.css';
+import logoSrc from '/logo.png';
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -33,7 +34,7 @@ export default function Header() {
   return (
     <nav className={`nav${scrolled ? ' scrolled' : ''}${!isHome && !scrolled ? ' nav-dark-hero' : ''}`}>
       <Link to="/" className="nav-logo">
-        <img src="/logo.png" alt="Geneva Insurance Group" />
+        <img src={logoSrc} alt="Geneva Insurance Group" />
       </Link>
 
       <ul className={`nav-links${menuOpen ? ' open' : ''}`}>
