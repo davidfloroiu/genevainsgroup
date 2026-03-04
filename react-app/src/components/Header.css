@@ -22,6 +22,7 @@
 .nav-logo img {
   height: 75px;
   width: auto;
+  transition: filter 0.4s var(--ease-out);
 }
 .nav-links {
   display: flex;
@@ -64,6 +65,7 @@
 .nav-cta::after { display: none !important; }
 
 /* Dark hero variant (service pages before scroll) */
+.nav-dark-hero .nav-logo img { filter: brightness(0) invert(1); }
 .nav-dark-hero .nav-links a { color: rgba(255, 255, 255, 0.8); }
 .nav-dark-hero .nav-links a:hover { color: var(--white); }
 .nav-dark-hero .nav-links a::after { background: var(--white); }
