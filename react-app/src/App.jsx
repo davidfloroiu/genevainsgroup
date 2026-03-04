@@ -23,7 +23,7 @@ function ScrollToHash() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/genevainsgroup">
       <ScrollToHash />
       <Header />
       <Routes>
