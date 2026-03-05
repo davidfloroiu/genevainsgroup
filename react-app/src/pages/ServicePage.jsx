@@ -97,7 +97,7 @@ export default function ServicePage() {
         <div className="sp-faq-list">
           {data.faqs.map((faq, i) => (
             <div
-              className={`sp-faq-item reveal reveal-delay-${i + 1}${openFaq === i ? ' open' : ''}`}
+              className={`sp-faq-item${openFaq === i ? ' open' : ''}`}
               key={i}
             >
               <button className="sp-faq-q" onClick={() => setOpenFaq(openFaq === i ? null : i)}>
