@@ -13,10 +13,10 @@ export default function Hero() {
       <div className="hero-grid-bg" />
       <div className="hero-content">
         <div className="hero-text">
-          <div className="hero-tag">Independent Insurance Agency — Long Grove, IL</div>
+          <div className="hero-tag">Independent Insurance Agency</div>
           <h1>Protection crafted around <em>your life</em></h1>
           <p className="hero-sub">
-            Comprehensive home, auto, business, and life insurance strategies from an independent agency serving Long Grove, Hawthorn Woods, Barrington, Vernon Hills, and the northwest suburbs of Chicago.
+            Comprehensive home, auto, business, and life insurance strategies from an independent agency with access to 25+ carriers — so you get the right coverage at the right price.
           </p>
           <div className="hero-actions">
             <button className="btn-primary" onClick={() => scrollTo('#contact')}>

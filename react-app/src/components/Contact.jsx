@@ -69,7 +69,7 @@ export default function Contact() {
               </div>
               <div className="contact-item">
                 <div className="contact-icon"><MapPinIcon /></div>
-                <div className="contact-text"><strong>Serving</strong>Illinois &amp; Nationwide</div>
+                <div className="contact-text"><strong>Serving</strong>Clients Nationwide</div>
               </div>
             </div>
           </div>

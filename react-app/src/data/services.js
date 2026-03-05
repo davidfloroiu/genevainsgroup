@@ -52,8 +52,8 @@ export const serviceCards = [
 export const servicePages = {
   'auto-insurance': {
     title: 'Auto Insurance',
-    pageTitle: 'Auto Insurance Long Grove IL | Car Insurance Quote | Geneva Insurance Group',
-    metaDescription: 'Get an auto insurance quote in Long Grove, Hawthorn Woods, Barrington, and Vernon Hills, IL. Cheap car insurance from 25+ carriers. Multi-car discounts, teen driver coverage, and classic car insurance in Lake County.',
+    pageTitle: 'Auto Insurance Quote | Car Insurance Coverage | Geneva Insurance Group',
+    metaDescription: 'Get an auto insurance quote from 25+ carriers. Multi-car discounts, teen driver coverage, classic car insurance, and full-spectrum vehicle protection from an independent agency.',
     hero: {
       heading: 'Auto coverage that actually keeps up with you',
       description: 'Whether you drive a daily commuter, a classic car, or a fleet of work vehicles, we match you with the right carrier and coverage structure so you never overpay or come up short.',
@@ -85,8 +85,8 @@ export const servicePages = {
   },
   'home-insurance': {
     title: 'Home Insurance',
-    pageTitle: 'Home Insurance Hawthorn Woods IL | Homeowners Insurance Quote | Geneva Insurance Group',
-    metaDescription: 'Home insurance in Hawthorn Woods, Long Grove, Barrington, and Vernon Hills, IL. Homeowners, condo, renters, and landlord policies. High-value home coverage, sump pump backup, and flood insurance in Lake County.',
+    pageTitle: 'Home Insurance Quote | Homeowners Insurance Coverage | Geneva Insurance Group',
+    metaDescription: 'Homeowners, condo, renters, and landlord insurance from 25+ carriers. High-value home coverage, flood insurance, and scheduled property protection from an independent agency.',
     hero: {
       heading: 'Your home is your most significant investment',
       description: 'We build homeowners coverage that accounts for the details most agencies miss — from replacement cost accuracy to liability gaps that could leave you exposed.',
@@ -119,8 +119,8 @@ export const servicePages = {
   },
   'commercial': {
     title: 'Commercial',
-    pageTitle: 'Business Insurance Barrington IL | Commercial Insurance | Geneva Insurance Group',
-    metaDescription: 'Business insurance in Barrington, Long Grove, Vernon Hills, and Lake County, IL. General liability, BOP, workers comp, commercial auto, and professional liability for contractors, restaurants, dental practices, and small businesses.',
+    pageTitle: 'Business Insurance | Commercial Insurance Quote | Geneva Insurance Group',
+    metaDescription: 'Commercial insurance from 25+ carriers. General liability, BOP, workers comp, commercial auto, and professional liability for contractors, restaurants, and small businesses.',
     hero: {
       heading: 'Business insurance built for how you operate',
       description: 'Your business faces risks that are unique to your industry, your size, and your growth plans. We build commercial coverage programs that protect what you have built and support where you are headed.',
@@ -152,8 +152,8 @@ export const servicePages = {
   },
   'life-health': {
     title: 'Life & Health',
-    pageTitle: 'Life Insurance Agent Long Grove IL | Term & Whole Life Quote | Geneva Insurance Group',
-    metaDescription: 'Life insurance agent in Long Grove, Hawthorn Woods, Barrington, and Vernon Hills, IL. Term life, whole life, health, dental, and vision insurance. Estate planning and trust-owned life insurance in Lake County.',
+    pageTitle: 'Life Insurance Quote | Term & Whole Life Coverage | Geneva Insurance Group',
+    metaDescription: 'Term life, whole life, health, dental, and vision insurance from an independent agency. Estate planning, trust-owned life insurance, and needs-based coverage analysis.',
     hero: {
       heading: 'Protect the people who depend on you',
       description: 'Life and health insurance are not just policies — they are promises to the people you love. We help you build protection that ensures your family is taken care of no matter what happens.',
@@ -185,8 +185,8 @@ export const servicePages = {
   },
   'specialty': {
     title: 'Specialty',
-    pageTitle: 'Specialty Insurance Lake County IL | High-Value Home & Collectibles | Geneva Insurance Group',
-    metaDescription: 'Specialty insurance in Long Grove, Barrington, and Lake County, IL. High-value home programs, trust-owned policies, collectibles coverage, classic car insurance, and equestrian farm insurance.',
+    pageTitle: 'Specialty Insurance | High-Value Home & Collectibles | Geneva Insurance Group',
+    metaDescription: 'Specialty insurance for high-value homes, trust-owned policies, collectibles, classic cars, and unique assets. Expert coverage from an independent agency with specialty market access.',
     hero: {
       heading: 'For the risks that standard policies were not built for',
       description: 'Some clients have protection needs that go beyond conventional coverage. High-value homes, trust-owned policies, collectibles, and unique assets require specialized insurance solutions — and that is exactly where we excel.',
@@ -218,8 +218,8 @@ export const servicePages = {
   },
   'umbrella': {
     title: 'Umbrella',
-    pageTitle: 'Umbrella Insurance Lake County IL | Excess Liability Quote | Geneva Insurance Group',
-    metaDescription: 'Umbrella insurance in Barrington, Long Grove, Vernon Hills, and Lake County, IL. Excess liability coverage for high-net-worth individuals and families. Protect your assets with affordable umbrella policies from $200/year.',
+    pageTitle: 'Umbrella Insurance | Excess Liability Coverage | Geneva Insurance Group',
+    metaDescription: 'Umbrella insurance and excess liability coverage for high-net-worth individuals and families. Protect your assets with affordable umbrella policies starting from $200/year.',
     hero: {
       heading: 'The safety net your other policies can\'t provide',
       description: 'An umbrella policy extends your liability protection beyond the limits of your home, auto, and other underlying policies — providing a crucial extra layer of defense for your assets and future earnings.',

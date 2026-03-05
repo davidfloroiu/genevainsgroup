@@ -14,8 +14,8 @@ export default function Home() {
   return (
     <>
       <SEO
-        title="Independent Insurance Agency Long Grove IL | Geneva Insurance Group"
-        description="Geneva Insurance Group is an independent insurance agency serving Long Grove, Hawthorn Woods, Barrington, and Vernon Hills, IL. Home, auto, business, life, umbrella, and specialty insurance from 25+ carriers."
+        title="Independent Insurance Agency | Geneva Insurance Group"
+        description="Geneva Insurance Group is an independent insurance agency offering home, auto, business, life, umbrella, and specialty insurance from 25+ carriers nationwide."
       />
       <Hero />
       <div className="section-divider"><hr /></div>
