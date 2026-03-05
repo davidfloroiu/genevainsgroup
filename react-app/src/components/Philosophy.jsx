@@ -19,7 +19,7 @@ export default function Philosophy() {
             "We believe people deserve an insurance partner who treats their protection with the same seriousness they treat their future."
           </blockquote>
           <p className="philosophy-body">
-            Geneva Insurance Group was founded on a simple conviction: the insurance experience is broken. Too many agencies treat policies as transactions rather than the deeply personal decisions they are. We take a different approach — one built on transparency, deep expertise, and an unwavering commitment to doing what's right for each client we serve.
+            Geneva Insurance Group was founded on a simple conviction: the insurance experience is broken. As an independent insurance agency in Long Grove, IL, we serve families and businesses across Hawthorn Woods, Barrington, Vernon Hills, and Lake County with a different approach — one built on transparency, deep expertise, and an unwavering commitment to doing what's right for each client we serve.
           </p>
         </div>
 

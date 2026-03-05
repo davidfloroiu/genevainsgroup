@@ -2,6 +2,7 @@ import { useParams, Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { servicePages } from '../data/services';
 import { ArrowRight } from '../components/Icons';
+import SEO from '../components/SEO';
 import useScrollReveal from '../hooks/useScrollReveal';
 import './ServicePage.css';
 
@@ -28,6 +29,7 @@ export default function ServicePage() {
 
   return (
     <>
+      <SEO title={data.pageTitle} description={data.metaDescription} />
       {/* Hero */}
       <section className="sp-hero">
         {data.hero.image && (

@@ -23,7 +23,7 @@ function ScrollToHash() {
 
 export default function App() {
   return (
-    <BrowserRouter basename="/genevainsgroup">
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
       <ScrollToHash />
       <Header />
       <Routes>
